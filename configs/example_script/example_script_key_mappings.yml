@@ -1,0 +1,3 @@
+# Mapping shortcuts from request params -> html element names
+example_param_1: example_element_1
+example_param_2: example_element_2
